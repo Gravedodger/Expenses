@@ -1,8 +1,5 @@
 import React from 'react';
 import styled from 'styled-components';
-import Table from '../atoms/Table';
-import ExpenseRow from './ExpenseRow';
-import IncomeRow from './IncomeRow';
 import Pagination from '../atoms/Pagination';
 import { ExpenseData, IncomeData } from '../../types/types';
 import Selection from '../atoms/Select';
