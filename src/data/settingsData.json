@@ -1,0 +1,31 @@
+{
+  "expenseCategory": [
+    "Food",
+    "Car",
+    "Sport",
+    "Clothes",
+    "Rent",
+    "Holiday",
+    "Entertainment",
+    "Alcohol",
+    "Other",
+    "Self care",
+    "Books"
+  ],
+  "incomeSource": ["Job", "Sold", "Interest", "Investment"],
+  "currency": "€",
+  "colors": [
+    "#B2AA8E",
+    "#0C1B33",
+    "#7A306C",
+    "#03B5AA",
+    "#DBFE87",
+    "#C98BB9",
+    "#FB3640",
+    "#97c632",
+    "#f39d05",
+    "#59e834",
+    "#e0b981"
+  ],
+  "budget": []
+}
